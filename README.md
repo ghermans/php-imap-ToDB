@@ -3,6 +3,8 @@ ImapMailbox is PHP class to access mailbox by POP3/IMAP/NNTP using IMAP extensio
 
 Based on main ImapMailbox class:
 
+PHP email parse to Database
+
 Added functionality for viewing multiple versions of headers
 
 Added Functionality to add to database
